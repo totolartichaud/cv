@@ -1,0 +1,38 @@
+html, body {
+  min-height: 100%;
+}
+
+body {
+  background-color: #192538;
+}
+
+img.border-top {
+  border-width: 10px !important;
+  height: 400px;
+  box-shadow: 0 0 10px #0f1826;
+}
+
+a.nav-link {
+  color: white;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+  border-top: 1px solid rgba(255, 255, 255, 0.5);
+  margin-bottom: 5px;
+}
+
+.h-40 {
+  height: 40%;
+}
+
+.h-20 {
+  height: 20%;
+}
+
+.bg-dark-blue {
+  background-color: #0f1826;
+  box-shadow: 0 0 10px #0f1826;
+}
+
+textarea {
+  min-height: 100px;
+  max-height: 500px;
+}
